@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>background.jpeg</file>
+        <file>MainPage.qml</file>
+        <file>MoneyInputPage.qml</file>
+        <file>ResultsPage.qml</file>
+        <file>CalendPage.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>MoneyItemDelegate.qml</file>
+        <file>MoneyItemViewDialog.qml</file>
+        <file>CalendItem.qml</file>
+    </qresource>
+</RCC>
